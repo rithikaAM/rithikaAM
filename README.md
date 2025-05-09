@@ -1,8 +1,9 @@
 <!-- Profile Card Layout -->
+
 <table>
   <tr>
     <td width="180px">
-      <img src="https://avatars.githubusercontent.com/rithikaAM" width="150" style="border-radius:50%">
+      <img src="https://github.com/rithikaAM/rithikaAM/blob/main/coding-girl.png?raw=true" width="150">
     </td>
     <td>
       <h1>Hi, I'm Rithika! 👋</h1>
@@ -12,7 +13,6 @@
         <li>💼 Seeking <strong>full-time software development opportunities</strong></li>
         <li>🚀 Passionate about innovation and always open to collaborating on projects & ideas</li>
       </ul>
-      <img src="https://github.com/rithikaAM/rithikaAM/blob/main/coding-girl.png?raw=true" width="150">
       <p>
         <a href="https://www.linkedin.com/in/rithika-a-m">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
@@ -25,6 +25,7 @@
   </tr>
 </table>
 
+    
 ---
 
 ### ⚙️ Tech Stack
