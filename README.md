@@ -73,19 +73,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithikaAM&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithikaAM&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rithikaAM&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ### 💬 More About Me
 - 💻 I love creating user-friendly interfaces and automating workflows.
 - 🧠 Constantly learning and upskilling with hands-on projects.
